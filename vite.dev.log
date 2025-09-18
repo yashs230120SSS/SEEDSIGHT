@@ -1,0 +1,267 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.19[39m  [2mready in [0m[1m509[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m8080[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.25.22.86:[1m8080[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m12:24:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m12:24:52 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m12:32:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m12:32:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m12:35:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m12:35:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m12:40:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m12:40:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m12:49:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m12:49:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m12:49:54 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m12:49:54 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m1:25:51 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m1:25:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m1:26:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m1:26:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m1:26:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m1:26:24 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m1:26:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m1:26:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m1:26:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m1:26:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m1:35:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m1:35:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m1:35:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m1:35:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m1:35:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m1:35:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m1:35:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m1:35:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m1:37:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m1:37:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m1:37:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m1:37:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m1:38:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m1:38:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m1:38:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m1:38:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m1:43:35 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m1:43:43 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m1:47:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m1:47:49 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m1:47:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m1:47:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m1:47:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m1:48:14 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m1:48:21 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m1:41:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m1:41:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m1:41:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m1:41:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:00:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:00:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:00:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:00:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:05:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:05:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:06:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:06:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:06:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:06:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:06:24 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:06:29 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:06:33 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:06:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:06:40 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:08:07 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:08:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:08:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:08:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m2:08:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m2:13:16 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:14:01 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:14:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:14:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:14:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m2:14:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m2:21:40 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:22:05 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:22:06 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:26:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:26:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:26:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m2:26:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m2:32:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:32:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m2:32:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m2:32:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m2:40:07 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:43:03 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:43:06 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:43:11 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:43:15 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:43:38 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:45:16 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.tsx[22m
+[2m2:45:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:46:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:46:16 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.tsx[22m
+[2m2:46:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:46:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:49:42 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:49:50 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:52:15 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.tsx[22m
+[2m2:52:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:52:52 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:53:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:53:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:54:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:54:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m2:59:35 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m2:59:40 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:00:54 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:01:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:12:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+Error processing file src\pages\HistoryResults.tsx: SyntaxError: Unexpected token (97:72)
+    at constructor (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:362:19)
+    at TypeScriptParserMixin.raise (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:3259:19)
+    at TypeScriptParserMixin.unexpected (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:3279:16)
+    at TypeScriptParserMixin.jsxParseIdentifier (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:6616:12)
+    at TypeScriptParserMixin.jsxParseNamespacedName (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:6623:23)
+    at TypeScriptParserMixin.jsxParseElementName (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:6632:21)
+    at TypeScriptParserMixin.jsxParseClosingElementAt (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:6726:22)
+    at TypeScriptParserMixin.jsxParseElementAt (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:6742:37)
+    at TypeScriptParserMixin.jsxParseElementAt (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:6745:32)
+    at TypeScriptParserMixin.jsxParseElement (C:\Users\hp\Downloads\lovabuddy-seed-analyzer-main\lovabuddy-seed-analyzer-main\node_modules\@babel\parser\lib\index.js:6796:17) {
+  code: 'BABEL_PARSER_SYNTAX_ERROR',
+  reasonCode: 'UnexpectedToken',
+  loc: Position { line: 97, column: 72, index: 4363 },
+  pos: 4363,
+  syntaxPlugin: undefined
+}
+[2m3:12:04 pm[22m [31m[1m[vite][22m[39m [31mInternal server error:   x Expression expected
+    ,-[C:/Users/hp/Downloads/lovabuddy-seed-analyzer-main/lovabuddy-seed-analyzer-main/src/pages/HistoryResults.tsx:97:1]
+ 94 |                       <Badge className={getSeverityColor(result.severity)}>{getSeverityLabel(result.severity)}</Badge>
+ 95 |                     </TableCell>
+ 96 |                     <TableCell>{result.pestCount}</TableCell>
+ 97 |                     <TableCell>{(result.confidence * 100).toFixed(1)}%</</TableCell>
+    :                                                                         ^
+ 98 |                     <TableCell>
+ 99 |                       <Badge variant="outline">{result.quality}</Badge>
+ 99 |                     </TableCell>
+    `----
+  x Unterminated regexp literal
+    ,-[C:/Users/hp/Downloads/lovabuddy-seed-analyzer-main/lovabuddy-seed-analyzer-main/src/pages/HistoryResults.tsx:97:1]
+ 94 |                       <Badge className={getSeverityColor(result.severity)}>{getSeverityLabel(result.severity)}</Badge>
+ 95 |                     </TableCell>
+ 96 |                     <TableCell>{result.pestCount}</TableCell>
+ 97 |                     <TableCell>{(result.confidence * 100).toFixed(1)}%</</TableCell>
+    :                                                                          ^^^^^^^^^^^
+ 98 |                     <TableCell>
+ 99 |                       <Badge variant="outline">{result.quality}</Badge>
+ 99 |                     </TableCell>
+    `----
+
+
+Caused by:
+    Syntax Error[39m
+  Plugin: [35mvite:react-swc[39m
+  File: [36mC:/Users/hp/Downloads/lovabuddy-seed-analyzer-main/lovabuddy-seed-analyzer-main/src/pages/HistoryResults.tsx[39m
+  
+[2m3:12:04 pm[22m [31m[1m[vite][22m[39m Pre-transform error:   x Expression expected
+    ,-[C:/Users/hp/Downloads/lovabuddy-seed-analyzer-main/lovabuddy-seed-analyzer-main/src/pages/HistoryResults.tsx:97:1]
+ 94 |                       <Badge className={getSeverityColor(result.severity)}>{getSeverityLabel(result.severity)}</Badge>
+ 95 |                     </TableCell>
+ 96 |                     <TableCell>{result.pestCount}</TableCell>
+ 97 |                     <TableCell>{(result.confidence * 100).toFixed(1)}%</</TableCell>
+    :                                                                         ^
+ 98 |                     <TableCell>
+ 99 |                       <Badge variant="outline">{result.quality}</Badge>
+ 99 |                     </TableCell>
+    `----
+  x Unterminated regexp literal
+    ,-[C:/Users/hp/Downloads/lovabuddy-seed-analyzer-main/lovabuddy-seed-analyzer-main/src/pages/HistoryResults.tsx:97:1]
+ 94 |                       <Badge className={getSeverityColor(result.severity)}>{getSeverityLabel(result.severity)}</Badge>
+ 95 |                     </TableCell>
+ 96 |                     <TableCell>{result.pestCount}</TableCell>
+ 97 |                     <TableCell>{(result.confidence * 100).toFixed(1)}%</</TableCell>
+    :                                                                          ^^^^^^^^^^^
+ 98 |                     <TableCell>
+ 99 |                       <Badge variant="outline">{result.quality}</Badge>
+ 99 |                     </TableCell>
+    `----
+
+
+Caused by:
+    Syntax Error
+[2m3:12:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:12:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/History.tsx, /src/index.css[22m
+[2m3:12:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m3:12:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:16:14 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/History.tsx, /src/index.css[22m
+[2m3:16:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HistoryResults.tsx, /src/index.css[22m
+[2m3:16:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/History.tsx, /src/index.css[22m
+[2m3:16:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HistoryResults.tsx, /src/index.css[22m
+[2m3:18:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/History.tsx, /src/index.css[22m
+[2m3:18:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/History.tsx, /src/index.css[22m
+[2m3:19:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m3:19:52 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HistoryResults.tsx, /src/index.css[22m
+[2m3:20:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m3:20:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HistoryResults.tsx, /src/index.css[22m
+[2m3:27:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m3:27:58 pm[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@radix-ui/react-label[32m[39m
+[2m3:27:58 pm[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m3:28:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m3:31:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m3:31:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m3:32:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:33:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:33:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:33:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:34:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:35:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:35:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:35:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:37:38 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:37:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:37:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:37:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:40:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:40:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:41:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:41:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m3:43:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:43:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m3:43:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m3:43:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/History.tsx, /src/index.css[22m
+[2m3:43:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HistoryResults.tsx, /src/index.css[22m
+[2m3:44:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m3:44:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SiteHeader.tsx, /src/index.css[22m
+[2m3:44:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m3:44:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Upload.tsx, /src/index.css[22m
+[2m3:44:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Results.tsx, /src/index.css[22m
+[2m3:44:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/History.tsx, /src/index.css[22m
+[2m3:44:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HistoryResults.tsx, /src/index.css[22m
+[2m3:44:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m3:47:52 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:47:55 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:39 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:39 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:39 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:40 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:40 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:40 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:40 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:41 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:41 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:41 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:41 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:42 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:42 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:42 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:42 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:53:43 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:57:16 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:57:16 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:57:16 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m3:57:16 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
